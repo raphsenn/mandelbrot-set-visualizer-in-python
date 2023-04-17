@@ -17,15 +17,12 @@ Once the program is running, it will generate a Mandelbrot set image with the sp
 # Mandelbrot Function
 
 The mandelbrot() function takes two arguments, a complex number c and an integer m, and returns an integer that represents the number of iterations required to determine if c is in the Mandelbrot set.
-Sample Function
 
 # Sample Funcion
 The sample() function takes five arguments, two complex numbers z and w, two integers x and y, and two integers sx and sy. It converts complex numbers to pixels.
-Color Function
 
 # Color Function
 The color() function takes two integers i and max_i, and returns a tuple of three integers representing the hue, saturation, and value of the color.
-Render Function
 
 # Render Function
 The render_mandelbrot() function takes six arguments, a complex number c, a complex number w, two integers px and py, an integer m, and a string out_name. It renders the Mandelbrot set fractal image and saves it to the specified file location.
