@@ -32,3 +32,4 @@ Eample Output is example.jpg
 
 # License
 This program is licensed under the MIT License. See the LICENSE file for more information.
+![example](https://github.com/raphsenn/Mandelbrot-Set-Visualizer-in-Python/assets/88326020/e8af5f44-a834-4149-885c-10b3637374cd)
