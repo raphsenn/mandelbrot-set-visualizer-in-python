@@ -1,5 +1,6 @@
 # Mandelbrot-Set-Visualizer-in-Python
 This is a Python program that visualizes the Mandelbrot set using the Python Imaging Library (PIL). The program generates a Mandelbrot set fractal image and saves it to the specified file location.
+![example](https://github.com/raphsenn/Mandelbrot-Set-Visualizer-in-Python/assets/88326020/e8af5f44-a834-4149-885c-10b3637374cd)
 
 # Usage
 To run the program, execute the following command:
@@ -32,4 +33,3 @@ Eample Output is example.jpg
 
 # License
 This program is licensed under the MIT License. See the LICENSE file for more information.
-![example](https://github.com/raphsenn/Mandelbrot-Set-Visualizer-in-Python/assets/88326020/e8af5f44-a834-4149-885c-10b3637374cd)
